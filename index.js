@@ -1,4 +1,4 @@
-const MODEL_PATH = 'https://raw.githubusercontent.com/MatveiZhartun/5-tf-nodejs/master/model/model.json';
+const MODEL_PATH = 'https://raw.githubusercontent.com/MatveiZhartun/5-tf-js-server/master/model/model.json';
 
 class DrawingPad {
   constructor(model) {
